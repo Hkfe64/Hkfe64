@@ -3,11 +3,7 @@
 
 - 🔭 I’m currently working on [Atalayas](https://atalayas.com.br/)
 
-- 🌱 I’m currently learning **React, Kotlin, Python and studying for a Information Technology degree**
-
-- 👯 I’m the dev behind [MesaDraconica](https://mesadraconica-ttrpg.web.app/)
-
-- 👨‍💻 All of my projects are available at [https://hkfeauth.web.app/](https://hkfeauth.web.app/)
+- 🌱 I’m currently learning **NextJs and Tech Lead**
 
 - 💬 Ask me about **Java, Spring and others like**
 
